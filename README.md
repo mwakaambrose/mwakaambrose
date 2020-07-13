@@ -1,4 +1,4 @@
-![Mwaka Ambrose banner](https://github.com/mwakaambrose/mwakaambrose/mwaka.png "Mwaka Ambrose")
+![Mwaka Ambrose banner](https://pbs.twimg.com/media/Ec0VwTkXYAA8ZzA?format=png&name=900x900 "Mwaka Ambrose")
 
 ### Hi there 👋
 I am Mwaka, a full stack developer based in Kampala Uganda. I created [TheOne app](https://theoneapp.rocks) and it's the thing that mostly takes up my evenings.
