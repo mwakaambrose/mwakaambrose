@@ -1,4 +1,4 @@
-![alt text](https://github.com/mwakaambrose/mwakaambrose/mwaka.png "Mwaka Ambrose")
+![Mwaka Ambrose banner](https://github.com/mwakaambrose/mwakaambrose/mwaka.png "Mwaka Ambrose")
 
 ### Hi there 👋
 I am Mwaka, a full stack developer based in Kampala Uganda. I created [TheOne app]: https://theoneapp.rocks and it's the thing that mostly takes up my evenings.
