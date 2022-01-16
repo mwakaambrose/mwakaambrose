@@ -1,6 +1,4 @@
-![Mwaka Ambrose banner](https://pbs.twimg.com/media/Ec0VwTkXYAA8ZzA?format=png&name=900x900 "Mwaka Ambrose")
-
-
+<!-- ![Mwaka Ambrose banner](https://pbs.twimg.com/media/Ec0VwTkXYAA8ZzA?format=png&name=900x900 "Mwaka Ambrose") -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mwakaambrose&theme=dark&layout=compact)](https://github.com/mwakaambrose/github-readme-stats)
 
 
