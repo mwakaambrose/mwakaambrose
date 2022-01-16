@@ -8,3 +8,4 @@ You can get me on twitter [@wodaceng](https://twitter.com/@wodaceng). I am avail
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mwakaambrose)](https://github.com/mwakaambrose/github-readme-stats)
+[![Mwaka's GitHub stats](https://github-readme-stats.vercel.app/api?username=mwakaambrose)](https://github.com/mwakaambrose/github-readme-stats)
